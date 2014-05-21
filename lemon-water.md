@@ -1,4 +1,4 @@
-# Lemon Water
+# Lemonade
 
 ## Ingredients
 * Ice
