@@ -1,4 +1,4 @@
-# Lemon and lime squeeze water
+# Lemonade with a squeeze of lime
 
 ## Ingredients
 * Ice
