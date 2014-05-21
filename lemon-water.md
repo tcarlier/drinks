@@ -1,4 +1,4 @@
-# Lemon Water
+# Lemon and lime squeeze water
 
 ## Ingredients
 * Ice
