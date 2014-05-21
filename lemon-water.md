@@ -5,8 +5,11 @@
 * Water
 * Fresh Lemon
 * Lemon twist
+* Sugar
 
 ## Steps
 
 * Slice lemon
-* Fill glass with ice
+* Fill pitcher with ice
+* Add sugar
+* Stir
