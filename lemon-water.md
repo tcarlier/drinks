@@ -13,3 +13,4 @@
 * Fill pitcher with ice
 * Add sugar
 * Stir
+* Serve in highball glass
